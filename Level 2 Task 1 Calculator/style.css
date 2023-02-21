@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(8, 7, 7);
+}
+
+.container{
+    text-align: center;
+    margin-top:40px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 10px;
+    border: 5px solid #f170e2;
+    font-size:34px;
+    padding: 1rem;
+    margin-bottom: 2.5rem;
+    height: 40px;
+    width: 207px;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+button{
+    border-radius: 5px;
+    font-size: 25px;
+    background: #ffffff9a;
+    width: 50px;
+    height: 50px;
+    margin: 6px;
+    cursor: pointer;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.calculator{ 
+    margin-top: 8px;
+    border: 3px solid #0a0709a5;
+    background-color: #a892fca0;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
